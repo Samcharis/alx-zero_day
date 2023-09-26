@@ -1,1 +1,1 @@
-this directory contains code on git
+this directory contains sub directories thst have files with codes in them on basics
